@@ -1,0 +1,22 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonfreberg/aoc2020.git"
+  },
+  "author": "Jon Freberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonfreberg/aoc2020/issues"
+  },
+  "homepage": "https://github.com/jonfreberg/aoc2020#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
